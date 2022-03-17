@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giordanny-maciel/)
 
-- 🔭 I am currently working as a front-end development intern at the Núcleo de Desenvolvimento de Software - NDS, do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).
+- 🔭 I am currently working as a front-end development intern at the Núcleo de Desenvolvimento de Software - NDS, Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).
 - 🌱 I'm learning web development, HTML, CSS, JavaScript and React.
 - 📫 Contact email: giordanny.dev@gmail.com
 
