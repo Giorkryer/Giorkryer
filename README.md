@@ -6,7 +6,7 @@
 - 🌱 I'm learning web development, HTML, CSS, JavaScript and React.
 - 📫 Contact email: giordanny.dev@gmail.com
 
-<br>
+<br><br>
 
 
 ![Giorkryer GitHub stats](https://github-readme-stats.vercel.app/api?username=Giorkryer&show_icons=true&theme=tokyonight)
